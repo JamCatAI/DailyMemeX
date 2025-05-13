@@ -1,4 +1,4 @@
-```markdown
+```
 # Twitter/X Bot - OAuth2 Tweet Automation
 
 A Node.js-based Twitter (X) bot using OAuth2.0 that enables authentication, token refresh, and automated tweet posting using Twitter API v2.
